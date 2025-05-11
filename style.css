@@ -17,8 +17,8 @@
       border-radius: 20px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.15);
       text-align: center;
-      width: 440px;
-      padding: 40px 30px;
+      width: 490px;
+    padding: 30px 30px;
       transition: transform 0.3s ease;
       animation: fadeIn 1s ease;
     }
@@ -74,7 +74,12 @@
       background: #ff9df0;
     }
 
-img.logo{
+    .links i {
+      font-size: 18px;
+    }
+
+
+	img.logo{
 	border-radius: 0;
     width: 140px;
     height: 60px;
@@ -82,6 +87,3 @@ img.logo{
     margin-top: 22px;
 	}
 
-    .links i {
-      font-size: 18px;
-    }
