@@ -74,6 +74,14 @@
       background: #ff9df0;
     }
 
+img.logo{
+	border-radius: 0;
+    width: 140px;
+    height: 60px;
+    border: none;
+    margin-top: 22px;
+	}
+
     .links i {
       font-size: 18px;
     }
