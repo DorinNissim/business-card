@@ -1,6 +1,13 @@
 /* XS - Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) { 
+	.card img{
+		width: 120px;
+		height: 120px;
+	}
 
+	.links a{
+		    padding: 4px 6px;
+	}
 }
 
 
