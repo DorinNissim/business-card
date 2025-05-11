@@ -8,6 +8,16 @@
 	.links a{
 		    padding: 4px 6px;
 	}
+
+	.card{
+		    padding: 6px 30px;
+	}
+
+	img.logo{
+	width: 100px;
+   	 height: 40px;
+	}
+	
 }
 
 
